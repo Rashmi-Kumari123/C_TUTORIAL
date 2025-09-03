@@ -12,24 +12,25 @@
 //     return far;
 // }
 
-int calcPercentage(int  science,int math,int eng);
+// int calcPercentage(int  science,int math,int eng);
 
-int main(){
-    int sc=98;
-    int math=95;
-    int eng=99;
-    printf("percentege is :%d", calcPercentage(sc,math ,eng));
-    return 0;
-}
+// int main(){
+//     int sc=98;
+//     int math=95;
+//     int eng=99;
+//     printf("percentege is :%d", calcPercentage(sc,math ,eng));
+//     return 0;
+// }
 
-int calcPercentage(int  science,int math,int eng){
-    return((science +math +eng)/3);
-}
+// int calcPercentage(int  science,int math,int eng){
+//     return((science +math +eng)/3);
+// }
 
 int fib(int n);
 
 int main(){
     printf ("%d", fib(6));
+    printf("\n");
     return 0;
 }
 int fib(int n){

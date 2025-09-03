@@ -3,6 +3,11 @@
         "stdio.h": "c",
         "recursion.C": "cpp",
         "pointers.C": "cpp",
-        "array.C": "cpp"
+        "array.C": "cpp",
+        "process.C": "cpp",
+        "zombie.C": "cpp",
+        "1.C": "cpp",
+        "myexec.C": "cpp",
+        "pipe.C": "cpp"
     }
 }

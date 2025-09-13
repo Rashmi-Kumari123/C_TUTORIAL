@@ -14,7 +14,7 @@ int main() {
     } else {
         // Parent process
         wait(NULL);
-        printf("TChld over\n");
+        printf("Chld over\n");
     }
 
     

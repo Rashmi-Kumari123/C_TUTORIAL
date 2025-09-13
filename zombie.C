@@ -9,7 +9,8 @@ int main() {
         printf("error in fork\n");
     else if (p == 0) {
         // Child process
-        printf("This is child process with PID %d\n", getpid());
+        // printf("This is child process with PID %d\n", getpid());
+        printf("pid %d says hello world\n", getpid());
     } else {
         // Parent process
         sleep(100);

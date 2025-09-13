@@ -8,6 +8,10 @@
         "zombie.C": "cpp",
         "1.C": "cpp",
         "myexec.C": "cpp",
-        "pipe.C": "cpp"
+        "pipe.C": "cpp",
+        "4sep.C": "cpp",
+        "pipeExample1.C": "cpp",
+        "sender.C": "cpp",
+        "receiver.C": "cpp"
     }
 }

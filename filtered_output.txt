@@ -1,0 +1,4 @@
+-rw-r--r-- 1 rashmi-kumari rashmi-kumari     0 Sep 15 14:21 filtered_output.txt
+-rw-rw-r-- 1 rashmi-kumari rashmi-kumari   151 Sep 13 18:45 output.txt
+-rw-r--r-- 1 rashmi-kumari rashmi-kumari     0 Sep 15 14:10 stderr.txt
+-rw-r--r-- 1 rashmi-kumari rashmi-kumari   317 Sep 15 14:10 stdout.txt

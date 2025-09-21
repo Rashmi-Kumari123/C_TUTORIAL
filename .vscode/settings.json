@@ -12,6 +12,12 @@
         "4sep.C": "cpp",
         "pipeExample1.C": "cpp",
         "sender.C": "cpp",
-        "receiver.C": "cpp"
+        "receiver.C": "cpp",
+        "three_process.C": "cpp",
+        "threeProcessPipeline.C": "cpp",
+        "Pipeline.C": "cpp",
+        "custom_shell.C": "cpp",
+        "sharedMemory.C": "cpp",
+        "reader.C": "cpp"
     }
 }
